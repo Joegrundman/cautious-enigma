@@ -1,0 +1,27 @@
+{
+  "name": "fileservice",
+  "version": "1.0.0",
+  "description": "file metadata microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joegrundman/cautious-enigma.git"
+  },
+  "keywords": [
+    "file",
+    "metadata",
+    "microservice"
+  ],
+  "author": "Joegrundman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joegrundman/cautious-enigma/issues"
+  },
+  "homepage": "https://github.com/Joegrundman/cautious-enigma#readme",
+  "dependencies": {
+    "multer": "^1.1.0"
+  }
+}
