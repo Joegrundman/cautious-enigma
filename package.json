@@ -4,7 +4,8 @@
   "description": "file metadata microservice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/Joegrundman/cautious-enigma#readme",
   "dependencies": {
+    "express": "^4.13.4",
     "multer": "^1.1.0"
   }
 }

@@ -10,4 +10,4 @@ upon successful uploading, filesize metadata in bytes in displayed
 
 in an alert
 
-the uploaded file is not stored anywhere
+the uploaded file is not stored anywhere, but could be with slight adjustment
